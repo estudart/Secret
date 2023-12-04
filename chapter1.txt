@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Starting my alien story, will be writin every day
 
+=======
+Starting my alien story, will be writing every day for sure
+>>>>>>> alien-plot
